@@ -11,6 +11,9 @@ void afiseazaTabla();
 int main()
 {
 	rezolva(0);
+	printf("\n\n### SABIESCU Sebastian Ovidiu \n");
+	printf("### UPT AC Info 2\n");
+	printf("### 12.01.2024 \n");
 	return 0;
 }
 
