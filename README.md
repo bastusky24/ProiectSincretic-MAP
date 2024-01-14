@@ -23,5 +23,5 @@
 
 *The project is inspired by:*
 - https://www.geeksforgeeks.org/8-queen-problem/
-- https://en.wikipedia.org/wiki/Eight_queens_puzzle/
+- https://en.wikipedia.org/wiki/Eight_queens_puzzle
 - https://www.youtube.com/watch?v=z-ohGoIW_uM/
