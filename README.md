@@ -20,6 +20,7 @@
 
 # How to run the Docker image
 - Docker pull command ```docker pull basti24/queens:latest```
+- Docker run command ```docker run basti24/queens```
 
 *The project is inspired by:*
 - https://www.geeksforgeeks.org/8-queen-problem/
